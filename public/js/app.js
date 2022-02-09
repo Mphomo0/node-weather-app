@@ -1,4 +1,3 @@
-console.log('This is just a temporary file') 
 
 const weather = document.querySelector('form')
 const search = document.querySelector('input')
